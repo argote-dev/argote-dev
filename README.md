@@ -5,17 +5,17 @@
 </p>
 
 ### 🚀 About Me  
-- 📱 I specialize in **Android Development** with **Kotlin & Jetpack Compose**  
-- 🏗️ I love working with **Clean Architecture, MVI, MVVM & Design Patterns**  
-- 📖 Currently learning **Kotlin Multiplatform (KMP)**  
-- 🎯 Passionate about **software architecture** and **scalability**  
+- 📱 I specialize in **iOS/Android Development** with **Kotlin & Jetpack Compose / Swift & SwiftUI**.
+- 🏗️ I love working with **Clean Architecture, MVI, MVVM & Design Patterns**.  
+- 📖 Currently learning **Kotlin Multiplatform (KMP)** and **Next.js**. 
+- 🎯 Passionate about **software architecture** and **scalability**.
 ---
 
 ### 🛠 Tech Stack  
-- **Languages**: Kotlin, Java  
-- **Frameworks & Tools**: Jetpack Compose, Retrofit, Room, Coroutines  
-- **Architecture**: MVI, MVVM, Clean Architecture  
-- **Version Control**: Git, GitHub  
+- **Languages**: Kotlin, Swift, Javascript, TypeScript. 
+- **Frameworks & Tools**: Jetpack Compose, SwiftUI.
+- **Architecture**: MVI, MVVM, Clean Architecture, modularization.
+- **Version Control**: Git, GitHub.
 ---
 
 ### 📊 GitHub Stats  
