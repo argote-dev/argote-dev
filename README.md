@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm David Argote! 👋</h1>
 
 <p align="center">
-💻 Android Developer | 🎓 Computer Science Engineer  
+💻 Mobile Developer | 🎓 Computer Science Engineer  
 </p>
 
 ### 🚀 About Me  
