@@ -16,13 +16,6 @@
 - **Frameworks & Tools**: Jetpack Compose, SwiftUI.
 - **Architecture**: MVI, MVVM, Clean Architecture, modularization.
 - **Version Control**: Git, GitHub.
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argote-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</p>
 
 ---
 
