@@ -7,15 +7,15 @@
 ### 🚀 About Me  
 - 📱 I specialize in **iOS/Android Development** with **Kotlin & Jetpack Compose / Swift & SwiftUI**.
 - 🏗️ I love working with **Clean Architecture, MVI, MVVM & Design Patterns**.  
-- 📖 Currently learning **Kotlin Multiplatform (KMP)** and **Next.js**. 
+- 📖 Currently learning **Flutter** and **Next.js**. 
 - 🎯 Passionate about **software architecture** and **scalability**.
 ---
 
 ### 🛠 Tech Stack  
-- **Languages**: Kotlin, Swift, Javascript, TypeScript. 
-- **Frameworks & Tools**: Jetpack Compose, SwiftUI.
-- **Architecture**: MVI, MVVM, Clean Architecture, modularization.
-- **Version Control**: Git, GitHub.
+- **Languages**: Kotlin, Swift, Dart, Javascript, TypeScript. 
+- **Frameworks & Tools**: Jetpack Compose, SwiftUI, Next.js, Flutter.
+- **Architecture**: MVI, MVVM, Clean Architecture, modularization, BloC.
+- **Version Control**: Git, GitHub, GitLab, Azure DevOps.
 
 ---
 
