@@ -5,9 +5,8 @@
 </p>
 
 ### 🚀 About Me  
-- 📱 I specialize in **iOS/Android Development** with **Kotlin & Jetpack Compose / Swift & SwiftUI**.
-- 🏗️ I love working with **Clean Architecture, MVI, MVVM & Design Patterns**.  
-- 📖 Currently learning **Flutter** and **Next.js**. 
+- 📱 I specialize in **iOS/Android/Flutter Development** with **Kotlin & Jetpack Compose / Swift & SwiftUI / Dart & Flutter**.
+- 🏗️ I love working with **Clean Architecture, MVI, MVVM & Design Patterns**. 
 - 🎯 Passionate about **software architecture** and **scalability**.
 ---
 
