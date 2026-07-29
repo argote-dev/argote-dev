@@ -20,8 +20,6 @@
 
 <p align="center">
   <a href="https://x.com/argote_dev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://instagram.com/argote_dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@argote_dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
 <p align="center">
